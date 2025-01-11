@@ -1,5 +1,5 @@
 ### 🐜🍓🍆
-im shirano
+im shirano  
 Programmer / Web / VR
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shiranon&count_private=true&rank=-?)](https://github.com/shiranon/github-profile-trophy)
